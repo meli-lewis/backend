@@ -1,3 +1,5 @@
+##NOTE: The Hack Oregon Behind the Curtain backend repo has moved: you can find it at https://github.com/stochasticTreat/hackOregonBackEnd instead.
+
 Hack Oregon
 =======
 Welcome to Hack Oregon's official github repository.  Hack Oregon is a new kind of civic action group emerging to tackle tough questions arising between the current political establishment and the evolving landscape.  We strive to use data as a medium to spark engagement in Oregon's political process.
